@@ -1,6 +1,7 @@
 # Zsh Config
-
 Thanks to [houssamouhra/zsh-config](https://github.com/houssamouhra/zsh-config) for the inspiration!
+my copy has been unforked and is now here:
+<https://github.com/jessegoodier/zsh-config>
 
 ----------------------------------------------------------------------------------------------------
 
